@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\DoAnCK_TDN.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\Interop.SpeechLib.dll
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\Interop.WMPLib.dll
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\AxInterop.WMPLib.dll
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\DoAnCK_TDN.csproj.ResolveComReference.cache
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\DoAnCK_TDN.MainApp.resources
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\DoAnCK_TDN.Management.resources
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\DoAnCK_TDN.Music.resources
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\DoAnCK_TDN.Properties.Resources.resources
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\DoAnCK_TDN.Video.resources
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\DoAnCK_TDN.Vocabulary.resources
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\DoAnCK_TDN.WatchVideos.resources
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\DoAnCK_TDN.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\DoAnCK_TDN\DoAnCK_TDN\obj\Release\DoAnCK_TDN.csproj.CoreCompileInputs.cache
